@@ -1,0 +1,20 @@
+#day 33
+#Application Programming Interfaces
+#create an ISS tracker
+
+#What is API?
+"""API is a set of commands, functions, protocols and objects that programmers use to crate software or interact with an external system"""
+
+#Yahoo Weather has an API
+#Coin Base has an API with current live prices of crypto currencies
+#NBA has an API
+
+#API Endpoints
+"""API endpoint is a location that the data is stored in"""
+#Making API request
+
+#International Space Station Current Location API
+#API returns output in from of JSON, which can be converted into python dictionary
+
+
+
